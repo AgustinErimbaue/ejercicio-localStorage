@@ -1,0 +1,25 @@
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+#nombre{
+    width: 200px;
+}
+
+#email{
+    width: 200px;
+}
+
+#comentario{
+    width: 250px;
+}
+
+button{
+    width: 100px;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+}
